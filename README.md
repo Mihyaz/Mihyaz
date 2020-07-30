@@ -1,4 +1,4 @@
-### Hi there, I'm Onur 👋🎮
+### Hi there, I'm Onur 👋
 
 <p align="center">
   <img width="150" src="https://github.com/Mihyaz/Mihyaz/blob/master/bne.png">
@@ -15,7 +15,7 @@
 <table id="onurs-games">
   <tr>
     <td valign="top" style="text-align:center">
-      <a href="#onurs-games"><img src="https://github.com/Mihyaz/Mihyaz/blob/master/GameIcons/ballabove.png" width="100" height="100" alt="Ball Above" /></a>
+      <a href="#onurs-games"><img src="https://github.com/Mihyaz/Mihyaz/blob/master/GameIcons/gumball.png" width="100" height="100" alt="Ball Above" /></a>
       <br>
     </td>
     <td valign="top" style="text-align:center">
@@ -27,7 +27,7 @@
       <br>
     </td>
     <td valign="top" style="text-align:center">
-      <a href="#onurs-games"><img src="https://github.com/Mihyaz/Mihyaz/blob/master/GameIcons/gumball.png" width="100" height="100" alt="Gumball Factory" /></a>
+      <a href="#onurs-games"><img src="https://github.com/Mihyaz/Mihyaz/blob/master/GameIcons/ballabove.png" width="100" height="100" alt="Gumball Factory" /></a>
       <br>
     </td>
   </tr>
